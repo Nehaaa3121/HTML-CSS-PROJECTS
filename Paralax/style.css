@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    font-weight: 600;
+    font-family: sans-serif;
+    line-height: 1.8em;
+    color:rgba(128, 128, 128, 0.817);
+    font-size:18px;
+    margin:0;
+}
+.view1{
+    background-image:url(./imgs/pexels-photo-321470.jpeg) ;
+    min-height: 100%;
+    position: relative;
+    background-size: cover;
+    background-position: calc();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.view2{
+    background-image:url(./imgs/pexels-photo-358561.jpeg) ;
+    min-height: 600px;
+    position: relative;
+    background-size: cover;
+    background-position: calc();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.view3{
+    background-image:url(./imgs/pexels-photo-248867.jpeg) ;
+    min-height: 400px;
+    position: relative;
+    background-size: cover;
+    background-position: calc();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+
+}
+.view4{
+    background-image:url(./imgs/pexels-photo-3073666.jpeg) ;
+    min-height: 100%;
+    position: relative;
+    background-size: cover;
+    background-position: calc();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+
+.para1{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+.writing-1{
+    background-color:white ;
+    color: black;
+}
+
+.para2{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+.writing-2{
+    background-color:white ;
+    color: black;
+}
+.para3{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+.writing-3{
+    background-color:white ;
+    color: black;
+}
+
